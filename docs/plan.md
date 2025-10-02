@@ -11,3 +11,5 @@ Ngày 7: Tổng kết, viết báo cáo.
 - Ôn lại kiến thức Git branching
 - Thực hành merge và conflict
 - Làm quen với stash trong Git
+- Ôn thêm lệnh reset và revert
+- Chuẩn bị bài thi cuối kỳ
