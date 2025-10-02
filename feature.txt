@@ -1,0 +1,5 @@
+Tính năng A: Quản lý ghi chú học tập.
+Mô tả: Cho phép người dùng thêm, sửa, xóa ghi chú.
+Ứng dụng: Hỗ trợ theo dõi tiến độ học tập.
+Kỹ thuật: Lưu trữ dữ liệu trong file hoặc database.
+Kế hoạch: Hoàn thành trong 2 ngày.
