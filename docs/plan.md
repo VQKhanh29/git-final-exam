@@ -8,3 +8,6 @@ Ngày 4: Ôn tập về Git reset, revert.
 Ngày 5: Thực hành giải conflict.
 Ngày 6: Làm project nhỏ áp dụng Git.
 Ngày 7: Tổng kết, viết báo cáo.
+- Ôn lại kiến thức Git branching
+- Thực hành merge và conflict
+- Làm quen với stash trong Git
