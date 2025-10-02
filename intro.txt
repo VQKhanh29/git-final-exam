@@ -1,0 +1,15 @@
+Xin chào, tôi là Võ Quốc Khánh, hiện đang là sinh viên.
+Tôi đang học về Git và cách quản lý phiên bản trong dự án.
+Tôi yêu thích công nghệ và thích học hỏi những điều mới.
+Tôi mong muốn trở thành một lập trình viên giỏi trong tương lai.
+Tôi luôn cố gắng rèn luyện tính kỷ luật và sự kiên nhẫn.
+
+Sở thích:
+1. Đọc sách
+2. Chơi thể thao
+3. Lập trình
+
+Kỹ năng:
+1. Sử dụng Git và GitHub
+2. Lập trình Python
+3. Làm việc nhóm
