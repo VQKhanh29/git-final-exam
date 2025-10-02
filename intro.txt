@@ -1,4 +1,4 @@
-Xin chào, tôi là Võ Quốc Khánh.
+Hello, this is Võ Quốc Khánh.
 Tôi đang học về Git và cách quản lý phiên bản trong dự án.
 Tôi yêu thích công nghệ và thích học hỏi những điều mới.
 Tôi mong muốn trở thành một lập trình viên giỏi trong tương lai.
