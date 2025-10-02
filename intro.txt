@@ -13,3 +13,10 @@ Kỹ năng:
 1. Sử dụng Git và GitHub
 2. Lập trình Python
 3. Làm việc nhóm
+
+Kế hoạch học tập:
+1. Ôn tập kiến thức Git và làm quen với workflow nhóm.
+2. Thành thạo sử dụng branch và pull request.
+3. Luyện tập commit và quản lý lịch sử phiên bản.
+4. Tham gia các dự án nhỏ để áp dụng kiến thức.
+5. Hoàn thành khóa học Git nâng cao trong 3 tháng tới.
